@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DiDiCard</string>
+    <string name="title_activity_display_info">名片信息</string>
+    <string name="title_activity_contact">联系人列表</string>
+    <string name="title_activity_add">添加联系人</string>
+    <string name="scan_text">将二维码放入框内, 即可自动扫描</string>  
+</resources>
